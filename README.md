@@ -1,1 +1,1 @@
-https://github.com/mfarukomar/imagetohtml.git
+https://mfarukomar.github.io/imagetohtml/
