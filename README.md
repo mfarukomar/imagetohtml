@@ -1,2 +1,1 @@
-# imagetohtml
-A demo project from image to html
+https://github.com/mfarukomar/imagetohtml.git
